@@ -12,7 +12,7 @@
 
 function coinCounter (input) {
   // Initialize a JavaScript object to hold the coins
-  var input = "1.67";
+  var input = "0.67";
   var coinPurse = {};
 
   coinPurse.quarters = 0;
